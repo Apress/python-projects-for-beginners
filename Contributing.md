@@ -7,7 +7,7 @@ Copyright for Apress source code belongs to the author(s). However, under fair u
 1. Make sure you have a GitHub account.
 2. Fork the repository for the relevant book.
 3. Create a new branch on which to make your change, e.g. 
-`git checkout -b my_code_contribution`
+`git branch branch_name`
 4. Commit your change. Include a commit message describing the correction. Please note that if your commit message is not clear, the correction will not be accepted.
 5. Submit a pull request.
 
